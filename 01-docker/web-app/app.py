@@ -11,7 +11,7 @@ import asyncio
 
 USE_API = False
 
-teams = ["RCB", "DC", "GT", "MI", "PBSK", "RR", "CSK", "SRH", "KKR", "LSG"]
+teams = ["RCB"]
 
 
 
